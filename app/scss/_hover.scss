@@ -1,0 +1,23 @@
+.more__button a:hover{
+    background-color: $grey-focus;
+    color: #fff;
+}
+.more__button a:active{
+    background-color: #2b312d;
+}
+.btn{
+    &:hover{
+      background-color: #444b48;
+    }
+    &:active{
+      background-color: #2b302e;
+    }
+}
+.social-item{
+    &:hover{
+        background-color: #444b48;
+    }
+    &:active{
+    background-color: #2b302e;
+    }
+}
